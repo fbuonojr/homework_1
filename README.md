@@ -49,3 +49,6 @@ You are required to submit the following for review:
 
 ### HTML5 semantic changes
 The changes I made two the two files are explained in comments.
+
+* link to deployed application: https://fbuonojr.github.io/homework_1/
+* https://github.com/fbuonojr/homework_1
