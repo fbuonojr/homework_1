@@ -47,7 +47,7 @@ You are required to submit the following for review:
 
 ## Technologies include HTML5 and CSS
 
-### HTML5 semantic changes
+### HTML5 semantic changes, consolidated similar sections in CSS file
 The changes I made two the two files are explained in comments.
 
 * link to deployed application: https://fbuonojr.github.io/homework_1/
