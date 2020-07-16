@@ -86,13 +86,13 @@ p {
     background-color: #2589bd;
 }
 
-/*consolidated these three selectors into one*/
+/*consolidated these three selectors with the same values into one*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*consolidated these three selectors into one*/
+/*consolidated these three selectors with the same values into one*/
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;

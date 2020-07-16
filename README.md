@@ -43,11 +43,9 @@ You are required to submit the following for review:
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. -->
 
-# 01 HTML CSS Git: Code Refactor
+# Frank Buono Homework 1: Code Refactoring
 
 ## Technologies include HTML5 and CSS
 
 ### HTML5 semantic changes
-Changes I made to the files:
-* Replaced the first div class="header" tag with a header tag
-* Replaced a div tag with a section tag
+The changes I made two the two files are explained in comments.
