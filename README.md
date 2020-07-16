@@ -44,6 +44,10 @@ You are required to submit the following for review:
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. -->
 
 # 01 HTML CSS Git: Code Refactor
+
+## Technologies include HTML5 and CSS
+
+### HTML5 semantic changes
 Changes I made to the files:
 * Replaced the first div class="header" tag with a header tag
 * Replaced a div tag with a section tag
