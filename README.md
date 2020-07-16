@@ -51,4 +51,4 @@ You are required to submit the following for review:
 The changes I made two the two files are explained in comments.
 
 * link to deployed application: https://fbuonojr.github.io/homework_1/
-* https://github.com/fbuonojr/homework_1
+* link to GitHub repository: https://github.com/fbuonojr/homework_1
